@@ -1,0 +1,39 @@
+body{
+ 
+    background-color: #1ed1d4;
+    display: flex;
+    color: #FFFF;
+    font-weight: bold;
+ 
+   
+
+  
+}
+.direita{
+    width: 30%;
+    height: 50%;
+    position: relative;
+    display: inline-block;
+   
+}
+
+.esquerda{
+    width: 49%;
+    height: 50%;
+    vertical-align: top;
+    display: inline-block;
+}
+
+.btn-submit{
+    background: green;
+    color: #FFFF;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+
+
+
+
+
+
